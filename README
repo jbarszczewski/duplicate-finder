@@ -1,0 +1,2 @@
+# Duplicate Finder
+Simple CLI tool that helps finding duplicate files. It calculates file content hash which then is used for comparison.
